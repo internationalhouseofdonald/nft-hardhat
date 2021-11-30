@@ -41,15 +41,6 @@ Once done with the Getting started bit, you can run this example using the steps
 
 - Currently, there are no automated tests avaailable for this project. This will be implemented at a later date.
 
-## Author
-👤 **Adebola Adeniran**
-
-- [github](https://github.com/onedebos)
-- [twitter](https://twitter.com/debosthefirst)
-- [linkedin](https://www.linkedin.com/in/adebola-niran/)
-- [Web](https://adebola.dev)
-- [blog](https://blog.adebola.dev)
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
